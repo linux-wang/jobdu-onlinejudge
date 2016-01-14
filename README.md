@@ -1,4 +1,6 @@
 # jobdu-onlinejudge
 *九度acm练习题的答案；
 
+*程序在win10-x64下的dev-c++和vs2013上运行通过；
+
 *题目连接是http://ac.jobdu.com/hhtproblems.php；

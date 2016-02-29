@@ -4,7 +4,7 @@
 不过想了想如果是29这种素数，还得判断是不是2，3，太麻烦，然后看了一下网上
 见： http://www.zybang.com/question/ae859a42ba22e27173be66a934d6ce3f.html
 思路就明了了，后来自己又推断，也走到了上面的思路，见链接
- 
+ http://pan.baidu.com/s/1bl8bL0
 */
 
 #include<vector>
